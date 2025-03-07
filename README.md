@@ -1,10 +1,5 @@
 # The Ultimate Python Course
 
-Welcome to [**The Ultimate Python Course!**](https://youtu.be/UrsmFxEIp5k)
-
-This course is designed to take you from a  beginner to an advanced Python programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.
-This is a part of my video The Ultimate Python Couse. Refer to this [video](https://youtu.be/UrsmFxEIp5k) to watch my Python course
-
 ## Table of Contents
 
 - [The Ultimate Python Course](#the-ultimate-python-course)
@@ -114,7 +109,7 @@ Each chapter contains problem sets to test your understanding and to practice co
 
 1. **Clone the repository** to your local machine using:
    ```sh
-   git clone https://github.com/CodeWithHarry/The-Ultimate-Python-Course.git
+   git clone https://github.com/harshy261/Python_Mastery.git
    ```
 2. **Navigate through the chapters** to find the relevant lessons and code examples.
 3. **Complete the problem sets** provided at the end of each chapter to solidify your understanding.
