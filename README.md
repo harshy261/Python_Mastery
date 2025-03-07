@@ -13,7 +13,7 @@
 
 ## Introduction
 
-This repository is part of **The Ultimate Python Course** created by [CodeWithHarry](https://www.codewithharry.com/). The course aims to provide a comprehensive guide to learning Python programming.
+This repository is part of **The Ultimate Python Course** .The course aims to provide a comprehensive guide to learning Python programming.
 
 ## Chapters
 
